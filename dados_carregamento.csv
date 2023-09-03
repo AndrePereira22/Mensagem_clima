@@ -1,0 +1,4 @@
+﻿,ID,Nome,Cidade,mensagem_clima
+0,3,Carla,João Pessoa,"Alerta meteorológico para Carla: João Pessoa, nuvens dispersas, 25.96 °C, 75% de umidade, ventos atingindo 7.51 m/s."
+1,4,Ana,Rio de Janeiro,"Alerta meteorológico para Ana: No Rio de Janeiro, hoje teremos céu limpo com temperatura de 27.27°C e umidade de 69%. Ventos leves de 4.05 m/s. Aproveite o dia!"
+2,5,Marcos,Manaus,"Alerta meteorológico para Marcos em Manaus: Algumas nuvens, temperatura de 36.28°C, umidade de 36% e velocidade do vento de 4.12 m/s. Fique atento às condições climáticas."
