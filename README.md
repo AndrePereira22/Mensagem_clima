@@ -1,7 +1,7 @@
 
 # Oie, meu nome é André! 
 
-É uma aplicação em python que cria uma mensagem climatica personalizada  a partir da API do Chat GPT.
+É uma aplicação em python que cria uma mensagem de alerta climatico personalizada  a partir da API do Chat GPT.
 
 
 
