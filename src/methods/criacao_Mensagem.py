@@ -1,10 +1,10 @@
 import openai
-
+from src.methods.constants import API_KEY
 
 
 def generate_ai_menssage(dados) :
   
-  API_KEY = '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'
+  
   openai.api_key = API_KEY
   completion = openai.ChatCompletion.create(
       model ="gpt-3.5-turbo",
